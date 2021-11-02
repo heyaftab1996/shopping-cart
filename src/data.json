@@ -1,0 +1,54 @@
+{
+    "products":[
+        {
+            "id" : "1",
+            "title" : "Dress 1",
+            "description" : "This is test Description Dress 1",
+            "image":"/images/dress_new1.jpg",
+            "price" : 1200,
+            "availableSizes" : ["Xl","L","M"]
+        },
+        {
+            "id" : "2",
+            "title" : "Dress 2",
+            "description" : "This is test Description Dress 2",
+            "image":"/images/dress_new2.jpg",
+            "price" : 200,
+            "availableSizes" : ["Xl","L","M","S"]
+        },
+        {
+            "id" : "3",
+            "title" : "Dress 3",
+            "description" : "This is test Description Dress 3",
+            "image":"/images/dress_new3.jpg",
+            "price" : 13000,
+            "availableSizes" : ["Xl"]
+        },
+        {
+            "id" : "4",
+            "title" : "Dress 4",
+            "description" : "This is test Description Dress 4",
+            "image":"/images/dress_new4.jpg",
+            "price" : 1400,
+            "availableSizes" : ["L","M"]
+        },
+        {
+            "id" : "5",
+            "title" : "Dress 5",
+            "description" : "This is test Description Dress 5",
+            "image":"/images/dress_new5.jpg",
+            "price" : 800,
+            "availableSizes" : ["Xl","M"]
+        },
+        {
+            "id" : "6",
+            "title" : "Dress 6",
+            "description" : "This is test Description Dress 6",
+            "image":"/images/dress_new6.jpg",
+            "price" : 8000,
+            "availableSizes" : ["Xl","M"]
+        }
+        
+
+    ]
+}
